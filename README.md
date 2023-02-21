@@ -14,4 +14,6 @@ The software is placed as an exe file to preserve the source code of the softwar
 
 Contains 20 of the most professional and dangerous Windows viruses - Just run the installation file :)
 
-![alt text](https://s2.uupload.ir/files/bandicam_2023-02-21_06-10-37-713_k9je.jpg)
+![](https://s2.uupload.ir/files/bandicam_2023-02-21_06-18-36-274_4h3e.gif)
+
+![](https://s2.uupload.ir/files/bandicam_2023-02-21_06-10-37-713_k9je.jpg)
